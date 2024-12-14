@@ -1,3 +1,4 @@
+// Select a directory containing nd2 files. Change line 17 to ".lif" if the format is LIF
 path    = getDirectory("Choose a Directory");
 list    = getFileList(path);
 length  = list.length;
