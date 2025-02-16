@@ -1,0 +1,4 @@
+1. Max project by selecting stack or all stacks
+2. Subtract background ()
+3. Rotate and create rectangular selection
+4. Measure ()
